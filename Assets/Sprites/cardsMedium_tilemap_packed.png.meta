@@ -1,0 +1,3139 @@
+fileFormatVersion: 2
+guid: a3d9451c75843024cb5eed44311d4efd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f187a94efd2043adcc1617929d0d5
+      internalID: 988624638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13391ed0c7bd2a5428a068e838e31a10
+      internalID: -1277983168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe84fe7dd55dc4ba033fe692194e08
+      internalID: -664908462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ff36fbd940444bb386ead9b57c7e4
+      internalID: 938715490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87575b0532d4781498fc19698c042619
+      internalID: 1291013046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef151251a5827494faec0e16ed73919f
+      internalID: 2044581529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc1f2bd62f879478a11bb5de5bd596
+      internalID: 1940395175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364101fc3c55a14e805c9bdf9f716cf
+      internalID: -100505337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360f1410f56f94419417ab178a9658f
+      internalID: -920665593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed968728853f2004a8a022437304fd28
+      internalID: -365938517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ce1501938e7c418ffdbf550bb0a28
+      internalID: 1035807544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d10c46a14a9047ace809f93d991e8
+      internalID: -856105477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe6ea09141b164ea227cdf0d2ede04
+      internalID: -482278966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b4b461287d9d4a8759526d33748b5
+      internalID: -642190839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 290
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c86795d5af0f4c94832b432d83609
+      internalID: 426708184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d190bf178370a54ead54d86b81ca72c
+      internalID: 517167791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7bba86d8a296c4397678c6586fa1e1
+      internalID: -1316605230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87644483b6b398546b9d9b206f8d31d6
+      internalID: -1081199589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926e8ca96fc1d74badb40034242044e
+      internalID: 1936710041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4936971234744db4a0fa5df3c33cb
+      internalID: -639721756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc254847ae23704e983e253a5240da3
+      internalID: 2102442926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932158dac656b34b83e2db2b0afd257
+      internalID: 54463698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfdf78425b5574499953ec5e8450473
+      internalID: 924316912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada102774b2d4a46932944716de6722
+      internalID: -26281857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3368f6545a2a46a8ba0a7a27d0897
+      internalID: -687918251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f779a5e49af445bf0d9dda253281f
+      internalID: -585309628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5412552bdd60d84dabfb54584eb6df9
+      internalID: 817793804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87405f26276efdc4da3a83d039020f08
+      internalID: -1675000688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_28
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77efe379dcb6162438b944c8877f2cd9
+      internalID: 1060033873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd97de94913a0640b62649258bcdf33
+      internalID: -1110800166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888cb6aa1cb51d246896ba5975768afe
+      internalID: 2128886048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec09c28f697ab45860f3f7a569db91
+      internalID: -1432903777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd6712cd364d848b23e528b59ebc09
+      internalID: 2145897892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f0c16a387fa74a8645c1e8968d43a
+      internalID: 393359741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16396a832e80cec438659e4216e1de71
+      internalID: -927918815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f769b2f1c17c4e81febc454c392e3
+      internalID: -1251831115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefeb60994e7a5a489dc3b0bfaa62fe9
+      internalID: 1234349114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6018c4cc46a4a54fbc898a8f921c59b
+      internalID: 1020592007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cacba0ffafc141bba0015df502ac4
+      internalID: 1735423366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ded79044acb140a56bd21fe7230e4
+      internalID: -567155616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e38f1b8f650c4a84a40f244bb5689
+      internalID: -69007252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a030419f3e5d7f4f99b46913d78c21c
+      internalID: 339858122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211fef69c841a34b84accbfded4c3dc
+      internalID: -1593522946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b848844c7d79a46bf7ed226074debc
+      internalID: 1649186026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_44
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 226
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187675ae3afea344d8f752822a32a8e8
+      internalID: -336320323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e72c3a5764b64eb05f584f0751c0e
+      internalID: 958105706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26d19634109a54fbc24c167429b137
+      internalID: -1483424593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a31e69d7fd2645a4f2faee4e69eda
+      internalID: -1097691637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ece1077bf9b244ab3725803ce56861
+      internalID: -287266741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962094cdf8ea92242af46f918e4106d9
+      internalID: -545445736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3946f3db8903d3409960b541379e479
+      internalID: -945915751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726661da2defd248a65552717508be0
+      internalID: 1542799746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9ff858f316d0e47a09b829053d877a
+      internalID: -446800892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ff3159ad34c243bcc1682b3b3773c
+      internalID: -1899479524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472938a6b79a51c44b1dbced3d0bb142
+      internalID: 1770044328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d915952a7ebf4f86490414182fd1a
+      internalID: -1830842382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555a823b3d576940a1e231d34c51e11
+      internalID: -240334746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1b702289b6bc44a2fe63a14536442
+      internalID: -262164257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_58
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc292143c382e444896c10e66d6c26a
+      internalID: -1476732678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8aed7586e70524ca51e1af89beb851
+      internalID: -1975475479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed940b742d780544b92ec75f3d64aab
+      internalID: -533508533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d36ab652581084f81feb26f8bb70f1
+      internalID: -1292123883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee6d6b36b9932429a72b1770ed5abd
+      internalID: -699689851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7eaee3652a4a4aa581ad80ddd5b00
+      internalID: -194447218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9856731269d874c9d14b48ebf0bc33
+      internalID: -1814214281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8346bc11e61c4d81920ad7ec4c0e5
+      internalID: 1493909158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a27548d655a2943b91ba499bbf4a24
+      internalID: 792924071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14ce8996b4d5146a2b39823492215e
+      internalID: -305115475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_68
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237f3e8bbb8d264e8e11e716da8b05a
+      internalID: 396589387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add2a0871516e7f4bb155f560d3ca2ce
+      internalID: -1138395780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a1a3a95b8bbb449a7fc45702ca788c
+      internalID: 1211143000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80272d62fbf25409883ffa0fb2befb
+      internalID: -1017255134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f2da51a58bf76488e554fc50c0ade6
+      internalID: 993085884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_73
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50b211d613b68499b822f428df36f4
+      internalID: -600463233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7b4cbecf25234f975195d5bf77ccd
+      internalID: -413756961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7508064467f345a1dd62e8eb62ed4
+      internalID: -1268721253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc9841806302a4384bfdf9f6ee683b
+      internalID: -955055166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21845f7d2cd20a840a6e5f0c7831541f
+      internalID: -699654897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f2ac916fdce642885aab0f0c3f527
+      internalID: 643993426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfaec7042a506a46b40cce892ee5fa4
+      internalID: -1719722897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c13470ebc27c141be1ccf6b6a31ea2
+      internalID: 609130071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5726b2441b32844a8b9498b5e741dd
+      internalID: 677421550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7e4b3e73e59442874355767b8c82a
+      internalID: 1189375743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_83
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb7a02aab41ec42a953d4f6e412722
+      internalID: 346240745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_84
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f332e797a79d41ab7edbf9fd96ba3
+      internalID: -1506831728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6027f7823f0cc740b9d2e0386bc8a04
+      internalID: 1526409544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934bffe8ad5ab73418c7207ee39fb778
+      internalID: 496683060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9ba9139da1aa4fb3e393403125e8b
+      internalID: -207942182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_88
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a6294d594f5f4ab25fc398a8babdb
+      internalID: -702407459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_89
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8204c88443784fa9209d7c3434b7f
+      internalID: -800206154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90105198afb590e40b721358523f1be0
+      internalID: -1109807886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799221c422b3cc4c8c022e027fda96b
+      internalID: -1573792693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e53d0f9714064ea241648eec5d206
+      internalID: -96096263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d185d22712c37684d855e78cab0ebd9b
+      internalID: -955675445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc559441a92b7394c9fc2c05a59334d7
+      internalID: -1627730283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138d6702fac8e64a89d06c51433a71f
+      internalID: 808534120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4900dfb4c1a7ae04eb0c9c74434aaa8f
+      internalID: 1173031802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_97
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f566f56759c296c4699eddb8bafe7726
+      internalID: 654463763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b461c23d4732b7488c80fd58719d9c1
+      internalID: 22612395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e97c1622a3ea47bad452fbfbd8f80
+      internalID: -1011371071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_100
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0390a629d84640b23a8839da8b3f8
+      internalID: 266721548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_101
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a4bcc58c0cd643882ce9e5e86256c
+      internalID: -584121746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31510f83956cf064d8753e26bdc93c38
+      internalID: 741922628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_103
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c7df38b4c450408aeff58cd1ab195
+      internalID: -932650101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_104
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 98
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37727e429791bd441bd21f45f11b91da
+      internalID: 503039268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d1cc46e2bbd84582e582854b3a05c
+      internalID: 14790862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_106
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d70260c5e6ef4ebe060f0b38e1b05
+      internalID: 1519492285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc3fd07b26d01448eb35518fbb98f6
+      internalID: 571052937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1255d589a05ecc745a98efb8f7f319d6
+      internalID: -644069575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_109
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f110ea14d85f14f88ad2fff08b1edf
+      internalID: 726106402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_110
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a6488a4cad8b41b4fc431a4516d5f
+      internalID: -1920361501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_111
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491b0452a2d22b84fb7f807899f3f453
+      internalID: -1748016564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_112
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9376610b3f68aa544af10fa9c033d583
+      internalID: 1125725438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_113
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe54e23baf97a469a6edb2095d1f88
+      internalID: 1868455830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_114
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95149c7fafce3cf48b419287e430ed58
+      internalID: 1608336257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9e3f59c90a3664e865a27dcf7ce9a0
+      internalID: 1029985136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_116
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300af26999542db46ae83c7fe211871a
+      internalID: -1469530962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_117
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62502b7e75994804da96fb2df1dae137
+      internalID: -899808841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_118
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c62ce7da571541abdc9324d91a072
+      internalID: 2047764196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_119
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467b3d12aaee374682bc58cb4909882
+      internalID: -349518805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5e773689bb944587f9d3cd9cab5de
+      internalID: 1918305876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5144dacc1a562f449e274752049b1fe
+      internalID: 1103587128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_122
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c84be392c59147b6d3d3e16a5a0dd
+      internalID: 352618829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_123
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857af4bb43f24044905fc5a36c981d5
+      internalID: 370111766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_124
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eddfea682fd314ebd1cccd2994667c
+      internalID: 30262598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_125
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e322f4910772540b3624ae9f6e4327
+      internalID: 1050440871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_126
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09edac50ef01f498f694aef3fde80b
+      internalID: 259721668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_127
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 9, z: 6, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e1098873da7f4983bb14482544009
+      internalID: -1145088933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_128
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee031dcf7e40f4e9fb935f9e95d8a4
+      internalID: -1925188421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_129
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467de91bfe6c0374d80a13b891c6118e
+      internalID: 235624723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_130
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd27996cb3c74248983863e7e0b8dad
+      internalID: 1377214983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_131
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e3d4a4faa0ab41aae71143de94ed1
+      internalID: -1905723191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_132
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab280350175ce54dafe249f4e67cc1b
+      internalID: -2147161246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_133
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88818fb5b0b7694fa46c31eefd065ff
+      internalID: 369404950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_134
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc35a29830d8a4c987ec426ad52c1b
+      internalID: -1799420845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsMedium_tilemap_packed_135
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b2f72854ba7d44831d9e9f68ee674
+      internalID: -439034396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cardsMedium_tilemap_packed_0: 988624638
+      cardsMedium_tilemap_packed_1: -1277983168
+      cardsMedium_tilemap_packed_10: 1035807544
+      cardsMedium_tilemap_packed_100: 266721548
+      cardsMedium_tilemap_packed_101: -584121746
+      cardsMedium_tilemap_packed_102: 741922628
+      cardsMedium_tilemap_packed_103: -932650101
+      cardsMedium_tilemap_packed_104: 503039268
+      cardsMedium_tilemap_packed_105: 14790862
+      cardsMedium_tilemap_packed_106: 1519492285
+      cardsMedium_tilemap_packed_107: 571052937
+      cardsMedium_tilemap_packed_108: -644069575
+      cardsMedium_tilemap_packed_109: 726106402
+      cardsMedium_tilemap_packed_11: -856105477
+      cardsMedium_tilemap_packed_110: -1920361501
+      cardsMedium_tilemap_packed_111: -1748016564
+      cardsMedium_tilemap_packed_112: 1125725438
+      cardsMedium_tilemap_packed_113: 1868455830
+      cardsMedium_tilemap_packed_114: 1608336257
+      cardsMedium_tilemap_packed_115: 1029985136
+      cardsMedium_tilemap_packed_116: -1469530962
+      cardsMedium_tilemap_packed_117: -899808841
+      cardsMedium_tilemap_packed_118: 2047764196
+      cardsMedium_tilemap_packed_119: -349518805
+      cardsMedium_tilemap_packed_12: -482278966
+      cardsMedium_tilemap_packed_120: 1918305876
+      cardsMedium_tilemap_packed_121: 1103587128
+      cardsMedium_tilemap_packed_122: 352618829
+      cardsMedium_tilemap_packed_123: 370111766
+      cardsMedium_tilemap_packed_124: 30262598
+      cardsMedium_tilemap_packed_125: 1050440871
+      cardsMedium_tilemap_packed_126: 259721668
+      cardsMedium_tilemap_packed_127: -1145088933
+      cardsMedium_tilemap_packed_128: -1925188421
+      cardsMedium_tilemap_packed_129: 235624723
+      cardsMedium_tilemap_packed_13: -642190839
+      cardsMedium_tilemap_packed_130: 1377214983
+      cardsMedium_tilemap_packed_131: -1905723191
+      cardsMedium_tilemap_packed_132: -2147161246
+      cardsMedium_tilemap_packed_133: 369404950
+      cardsMedium_tilemap_packed_134: -1799420845
+      cardsMedium_tilemap_packed_135: -439034396
+      cardsMedium_tilemap_packed_14: 426708184
+      cardsMedium_tilemap_packed_15: 517167791
+      cardsMedium_tilemap_packed_16: -1316605230
+      cardsMedium_tilemap_packed_17: -1081199589
+      cardsMedium_tilemap_packed_18: 1936710041
+      cardsMedium_tilemap_packed_19: -639721756
+      cardsMedium_tilemap_packed_2: -664908462
+      cardsMedium_tilemap_packed_20: 2102442926
+      cardsMedium_tilemap_packed_21: 54463698
+      cardsMedium_tilemap_packed_22: 924316912
+      cardsMedium_tilemap_packed_23: -26281857
+      cardsMedium_tilemap_packed_24: -687918251
+      cardsMedium_tilemap_packed_25: -585309628
+      cardsMedium_tilemap_packed_26: 817793804
+      cardsMedium_tilemap_packed_27: -1675000688
+      cardsMedium_tilemap_packed_28: 1060033873
+      cardsMedium_tilemap_packed_29: -1110800166
+      cardsMedium_tilemap_packed_3: 938715490
+      cardsMedium_tilemap_packed_30: 2128886048
+      cardsMedium_tilemap_packed_31: -1432903777
+      cardsMedium_tilemap_packed_32: 2145897892
+      cardsMedium_tilemap_packed_33: 393359741
+      cardsMedium_tilemap_packed_34: -927918815
+      cardsMedium_tilemap_packed_35: -1251831115
+      cardsMedium_tilemap_packed_36: 1234349114
+      cardsMedium_tilemap_packed_37: 1020592007
+      cardsMedium_tilemap_packed_38: 1735423366
+      cardsMedium_tilemap_packed_39: -567155616
+      cardsMedium_tilemap_packed_4: 1291013046
+      cardsMedium_tilemap_packed_40: -69007252
+      cardsMedium_tilemap_packed_41: 339858122
+      cardsMedium_tilemap_packed_42: -1593522946
+      cardsMedium_tilemap_packed_43: 1649186026
+      cardsMedium_tilemap_packed_44: -336320323
+      cardsMedium_tilemap_packed_45: 958105706
+      cardsMedium_tilemap_packed_46: -1483424593
+      cardsMedium_tilemap_packed_47: -1097691637
+      cardsMedium_tilemap_packed_48: -287266741
+      cardsMedium_tilemap_packed_49: -545445736
+      cardsMedium_tilemap_packed_5: 2044581529
+      cardsMedium_tilemap_packed_50: -945915751
+      cardsMedium_tilemap_packed_51: 1542799746
+      cardsMedium_tilemap_packed_52: -446800892
+      cardsMedium_tilemap_packed_53: -1899479524
+      cardsMedium_tilemap_packed_54: 1770044328
+      cardsMedium_tilemap_packed_55: -1830842382
+      cardsMedium_tilemap_packed_56: -240334746
+      cardsMedium_tilemap_packed_57: -262164257
+      cardsMedium_tilemap_packed_58: -1476732678
+      cardsMedium_tilemap_packed_59: -1975475479
+      cardsMedium_tilemap_packed_6: 1940395175
+      cardsMedium_tilemap_packed_60: -533508533
+      cardsMedium_tilemap_packed_61: -1292123883
+      cardsMedium_tilemap_packed_62: -699689851
+      cardsMedium_tilemap_packed_63: -194447218
+      cardsMedium_tilemap_packed_64: -1814214281
+      cardsMedium_tilemap_packed_65: 1493909158
+      cardsMedium_tilemap_packed_66: 792924071
+      cardsMedium_tilemap_packed_67: -305115475
+      cardsMedium_tilemap_packed_68: 396589387
+      cardsMedium_tilemap_packed_69: -1138395780
+      cardsMedium_tilemap_packed_7: -100505337
+      cardsMedium_tilemap_packed_70: 1211143000
+      cardsMedium_tilemap_packed_71: -1017255134
+      cardsMedium_tilemap_packed_72: 993085884
+      cardsMedium_tilemap_packed_73: -600463233
+      cardsMedium_tilemap_packed_74: -413756961
+      cardsMedium_tilemap_packed_75: -1268721253
+      cardsMedium_tilemap_packed_76: -955055166
+      cardsMedium_tilemap_packed_77: -699654897
+      cardsMedium_tilemap_packed_78: 643993426
+      cardsMedium_tilemap_packed_79: -1719722897
+      cardsMedium_tilemap_packed_8: -920665593
+      cardsMedium_tilemap_packed_80: 609130071
+      cardsMedium_tilemap_packed_81: 677421550
+      cardsMedium_tilemap_packed_82: 1189375743
+      cardsMedium_tilemap_packed_83: 346240745
+      cardsMedium_tilemap_packed_84: -1506831728
+      cardsMedium_tilemap_packed_85: 1526409544
+      cardsMedium_tilemap_packed_86: 496683060
+      cardsMedium_tilemap_packed_87: -207942182
+      cardsMedium_tilemap_packed_88: -702407459
+      cardsMedium_tilemap_packed_89: -800206154
+      cardsMedium_tilemap_packed_9: -365938517
+      cardsMedium_tilemap_packed_90: -1109807886
+      cardsMedium_tilemap_packed_91: -1573792693
+      cardsMedium_tilemap_packed_92: -96096263
+      cardsMedium_tilemap_packed_93: -955675445
+      cardsMedium_tilemap_packed_94: -1627730283
+      cardsMedium_tilemap_packed_95: 808534120
+      cardsMedium_tilemap_packed_96: 1173031802
+      cardsMedium_tilemap_packed_97: 654463763
+      cardsMedium_tilemap_packed_98: 22612395
+      cardsMedium_tilemap_packed_99: -1011371071
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
