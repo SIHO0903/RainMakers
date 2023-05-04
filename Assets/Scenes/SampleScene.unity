@@ -63173,7 +63173,7 @@ MonoBehaviour:
   - {fileID: 809779278}
   - {fileID: 190095374}
   - {fileID: 1892933847}
-  bossSpawnTime: 20
+  bossSpawnTime: 40
   isSpawning: 1
 --- !u!1 &1979883052
 GameObject:

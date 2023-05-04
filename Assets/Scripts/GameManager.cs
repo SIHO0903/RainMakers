@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour
         curExp = 0;
         expGet = 0+extraExpGet;
         damage = 5+extraDamage;
-        curFireRate = 1.2f+extraFireRate;
+        curFireRate = 0.3f+extraFireRate;
 
         player.maxHealth = 50+player.extraHealth;
         player.MaxShield = 5+player.extraShield;
@@ -188,6 +188,8 @@ public class GameManager : MonoBehaviour
     void Clear()
     {
         Result();
+        uiFlow[(int)uiFlowInit.DeadUI].gameObject.SetActive(false);
+        uiFlow[(int)uiFlowInit.ClearUI].gameObject.SetActive(true);
         AudioManager.instance.SFXPlayer("Win");
     }
 }
