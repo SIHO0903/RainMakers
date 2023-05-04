@@ -154,6 +154,11 @@ public class GameManager : MonoBehaviour
         AudioManager.instance.SFXPlayer("Select");
 
     }
+    //시작BGM ClearUI,DeadUI 버튼에 추가함
+    public void BtnBGMSTART()
+    {
+        AudioManager.instance.BGMSTART();
+    }
     //옵션버튼
     public void BtnOption()
     {

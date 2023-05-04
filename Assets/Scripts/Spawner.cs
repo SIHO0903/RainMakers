@@ -19,7 +19,12 @@ public class Spawner : MonoBehaviour
     {
         spawnpoint = GetComponentsInChildren<Transform>();
     }
-
+    private void OnEnable()
+    {
+        spawntimer = 0;
+        levelByTime = 0;
+        isSpawning = true;
+    }
     void Update()
     {
         //보스소환 로직

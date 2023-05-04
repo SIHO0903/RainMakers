@@ -179,14 +179,14 @@ public class Player : MonoBehaviour
             AudioManager.instance.SFXPlayer("Dead");
             AudioManager.instance.SFXPlayer("Lose");
             isLive = false;
+            GameManager.Instance.Result();
 
-            
         }
     }
     //애니메이션 이벤트로 연결
     void SetFalse()
     {
-        GameManager.Instance.Result();
+
         gameObject.SetActive(false);
     }
 

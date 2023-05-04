@@ -101,9 +101,9 @@ public class AudioManager : MonoBehaviour
     //랜덤으로 HitSFX 재생
     public void RandomHitSFX()
     {
-        int ran = UnityEngine.Random.Range(0, 1);
+        int ran = UnityEngine.Random.Range(0, 2);
         string hit;
-        if (ran == 1)
+        if (ran == 0)
             hit = "Hit0";
         else
             hit = "Hit1";
